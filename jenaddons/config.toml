@@ -1,0 +1,45 @@
+
+[general]
+
+	[general.sounds]
+		meow_etherwarp = false
+		meow_arrows = false
+
+	[general.chat]
+		party_commands = false
+
+	[general.skyblock]
+		pet_keybinds = false
+		anti_kick = false
+		anti-lowballers = false
+
+[f7]
+
+	[f7.goldor]
+		ss_timer = true
+		early_enter_titles = true
+		cripple_addons = false
+
+	[f7.auto_four]
+		rotate_time = 50.0
+		auto_swap = true
+		rest_time = 30.0
+		auto_four = false
+		auto_leap = false
+		pre_shoot = true
+
+[dungeons]
+
+	[dungeons.general]
+		auto_tac = false
+		secret_triggerbot = false
+		secret_triggerbot_delay = 100.0
+		dialogue_skip_helper = true
+
+	[dungeons.puzzles]
+		puzzle_timer = true
+
+	[dungeons.auto_door_skip]
+		create_ghost_blocks = true
+		auto_walk = true
+

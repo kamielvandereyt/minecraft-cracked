@@ -1,0 +1,7 @@
+{
+    "name": "jenaddons",
+    "creator": "jenark",
+    "version": "0.0.4",
+    "requires": ["Bloom", "BloomCore", "PogData"],
+    "entry": "index.js"
+}
