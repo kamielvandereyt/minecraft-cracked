@@ -1,0 +1,6 @@
+flask           # Web framework for the backend (if used)
+requests        # For HTTP requests if 'requestv2' is built on 'requests'
+requestv2       # Include if it's a public package or available via pip
+gunicorn        # For production WSGI server (if deploying to platforms like Heroku)
+cryptography    # For handling encrypted URLs or tokens (if applicable)
+python-dotenv   # For managing environment variables (if needed)
